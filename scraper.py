@@ -21,7 +21,10 @@ class Scraper:
     print(f'Initialized scaper with {url}')
     
     
-  def scrape_fn(self, target_url):
+    
+  def save_talks(self):
+    target_url = os.path.join(self.url, talk)
+  
     page = requests.get(target_url)    
     soup = BeautifulSoup(page.content, "html.parser")
     items = soup.find_all("div", class_="row-margin__item")
@@ -57,15 +60,36 @@ class Scraper:
     
     
     
-  def save_talks(self):
-    target_url = os.path.join(self.url, talk)
-    return self.scrape_fn(target_url)
-    
-    
-    
   def save_workshops(self):
     target_url = os.path.join(self.url, workshops)
-    return self.scrape_fn(target_url)
+    
+    page = requests.get(target_url)    
+    soup = BeautifulSoup(page.content, "html.parser")
+    items = soup.find_all("div", class_="row-margin__item")
+    
+    
+    scraped_items = {}
+    
+    for i, item in enumerate(items):
+      time = item.find("div", class_="time upcoming").text
+      
+      date_object = datetime.strptime(time, '%b %d, %H:%M')      
+      time = date_object
+      
+    
+      title = item.find("div", class_="article-box__title").text
+      author_name = EMPTY
+      author_cat = EMPTY
+      
+      if item.find("div", class_="ab-author__name"):
+        author_name = item.find("div", class_="ab-author__name").text
+      
+      content = item.find("div", class_="article-box__text").text
+      
+      scraped_items[i] = [time, title, author_name, content]
+      
+    columns = ['Time', 'Title', "Author", "Content"]
+    return pd.DataFrame.from_dict(scraped_items, orient='index', columns=columns)
     
   def get_name(self):
     return self.url.split(os.path.sep)[-1]
