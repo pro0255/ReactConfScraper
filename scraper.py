@@ -56,6 +56,7 @@ class Scraper:
       scraped_items[i] = [time, title, author_name, author_cat, ','.join(tags)]
       
     columns = ['Time', 'Title', "Author", "Catogery", "Tags"]
+    
     return pd.DataFrame.from_dict(scraped_items, orient='index', columns=columns)
     
     
