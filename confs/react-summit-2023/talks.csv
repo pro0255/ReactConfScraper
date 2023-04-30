@@ -1,0 +1,64 @@
+Time;Title;Author;Catogery;Tags
+Jun 02, 07:20;Reactivity: There and Back Again;Michel Weststrate;Meta;
+Jun 02, 07:50;Speeding Up Your React App With Less JavaScript;Miško Hevery;Builder.io;react
+Jun 02, 07:50;Improving Developer Happiness with Copilot (with AI?);Senna Parsa;GitHub;
+Jun 02, 08:20;Debugging JS;Mark Erikson;Replay.io;
+Jun 02, 09:20;Principles to Leading a Large Software Infrastructure ;Malte Ubl;Vercel;architecture
+Jun 02, 09:20;Federated Microfrontends at Scale;Daniel Bolivar;Personio;micro-frontends,architecture
+Jun 02, 09:50;Moving on From Runtime Css-In-Js at Scale;Siddharth Kshetrapal;GitHub;performance
+Jun 02, 09:50;React Concurrency, Explained;Ivan Akulov;Google Developer Expert, PerfPerfPerf;react 18
+Jun 02, 10:20;You Can’t Use Hooks Conditionally… or Can You?;Charlotte Isambert;Bam.tech;react hooks
+Jun 02, 10:20;Making Interactions Accessible to All Users;Anuradha Kumari;Passionate People;accessibility
+Jun 02, 10:20;Optimising Images in Web and Native;Kadi Kraman;Formidable;react native
+Jun 02, 11:50;The New next.JS App Router;Lee Robinson;Vercel;next.js
+Jun 02, 11:50;Should You Use React in 2023?;Tru Narla;Discord;react
+Jun 02, 12:20;Modern Approaches for Creating Extremely Fast Websites;Brad Westfall;ReactTraining;performance
+Jun 02, 12:50;Supercharging React Apps with WASM;Mukkund Sunjii;ORTEC;webassembly
+Jun 02, 12:50;Building Pixel-Perfect UI Components Using CSS Variables;Sam Sycamore;MUI;
+Jun 02, 13:00;How to Become a Fintech Developer in Seven Minutes;NADA!!;NADA!!;
+Jun 02, 13:50;Advanced GraphQL Architectures: Serverless Event Sourcing and CQRS;Slobodan Stojanović;Vacation Tracker;graphql
+Jun 02, 13:50;Visualising Data with React, AG Grid and AG Charts;Sean Landsman;AG Grid;react
+Jun 02, 14:50;How Not to Build a Video Game;Christoph Nakazawa;Stripe;react,game development
+Jun 06, 13:15;Video Editing in the Browser;Christopher Chedeau;Facebook;
+Jun 06, 13:15;WHOA, I Wrote This React App With My Voice!;Rizel Scarlett;GitHub;
+Jun 06, 13:25;Overcoming Performance Limitations in React Components for Embedded Devices;Seungho Park;NADA!!;
+Jun 06, 13:35;Partytown;Adam Bradley;Ionic;
+Jun 06, 13:35;Pushing Boundaries To The Edge;Facundo Giuliani;Storyblok;
+Jun 06, 13:45;Code Signing React Native Apps;Cecelia Martinez;Ionic;
+Jun 06, 13:55;Go From Zero To Hero: Be Cross-Platform Devs With React Native;Arisa Fukuzaki;Storyblok;
+Jun 06, 14:05;Giving Superpowers to Your React Apps with Machine Learning;Shivay Lamba;Meilisearch;
+Jun 06, 14:15;Visual CMS… cool for React devs? Now’s the time!;Matteo Frana;React Bricks;
+Jun 06, 14:15;Server Components: The Epic Tale of Rendering UX;Nikhil Sharma;NADA!!;
+Jun 06, 14:25;How Grafana Uses React to Power the World of Observability;Nathan Marrs;Grafana;
+Jun 06, 14:35;Canaries in the CloudFront;Vijay Ramesh;Demandbase;
+Jun 06, 14:35;Thinking in React Query;Dominik Dorfmeister;Adverity;
+Jun 06, 14:45;Zod === Typescript, but at Runtime in Your React Applications;Luca Del Puppo;eDreams ODIGEO;
+Jun 06, 15:10;Tired of Tech? Hit Reset with a Sabbatical or LOA;Kamran Ayub;Kamranicus;career
+Jun 06, 15:20;Synthetic Monitoring and E2E Testing - 2 Sides of the Same Coin;Carly Richmond;Elastic;e2e testing
+Jun 06, 15:25;GraphQL in 2023 - Still Relevant?;Lenz Weber-Tronic;Mayflower;
+Jun 06, 15:30;Our Journey Into μFrontends;Rita Castro;Volkswagen Digital Solutions | SDC Lisbon;
+Jun 06, 15:30;1-How Did We End Up Here?! ;Christian Ivicevic;JetBrains;architecture
+Jun 06, 15:40;useMachineLearning… and Have Fun with It!;Nico Martin;Freelance Frontend Developer;machine learning
+Jun 06, 15:45;It's 2023 and I Can Finally Talk About Atomic CSS;Matheus Albuquerque;Medallia;
+Jun 06, 16:00;Bringing Controversial Ideas to React;Sanket Sahu;GeekyAnts;
+Jun 06, 16:05;Extending React Using Astro;Elian Van Cutsem;vBridge;
+Jun 06, 16:10;10x Your Teamwork Through Pair Programming;Selena Small;Fresho;
+Jun 06, 16:20;Introduction to Library Marketplace;Brendon Co;Standard Chartered;
+Jun 06, 16:25;My Chemical Remix: Building for Shopify with Hydrogen and Oxygen;Matt Seccafien;Shopify;
+Jun 06, 16:30;The Modern Monoliths: Rise of a New Transactional System;Yoko Li;a16z;architecture
+Jun 06, 16:40;Is My React Web App Ready for Launch?;Aditi Verma;McKinsey & Company;
+Jun 06, 16:45;Tuning Retro Video Archives for Display on the Modern Web using WebGL in React;Travis McGeehan;GFS;
+Jun 06, 16:50;Bring Development Closer to Production with Valid HTTPS Certificates;Linda Ikechukwu;Smallstep Labs;web development
+Jun 06, 17:05;Development History of Zustand;Daishi Kato;Zustand & Jotai Author;
+Jun 06, 17:10;Making Impossible States with fp-ts and TypeScript in a React Application;Cristhian Motoche;Stack Builders;
+Jun 06, 17:20;Meet Your New BFF: Backend to Frontend without the Duct Tape;NADA!!;NADA!!;
+Jun 06, 17:30;What To Do if You Came as a Team Leader to a Project with Legacy Level 100?;Maxim Nam;Tele2;architecture
+Jun 06, 17:35;Config Driven UI using ReactJS;Joban Singh;Microsoft;
+Jun 06, 17:40;The Future is Composable: Where to Start in Building for It   ;Henry Smith;Netlify;
+Jun 06, 17:40;Get Rid of Your API Schemas with tRPC;Giorgio Boa;Flowing;
+Jun 06, 17:55;How Bloomberg Built a Talent Sourcing Chrome Extension Using React;Adina Stoica;Bloomberg;
+Jun 06, 18:00;I Run Code From the Internet!;Zbyszek Tenerowicz;MetaMask;security
+Jun 06, 18:10;Secrets in Source Code - How Your JS Code is Exposing Your Credentials ;Mackenzie Jackson;GitGuardian - Developer Advocate;security
+Jun 06, 18:15;Scaling React-Three-Fiber Applications beyond the Hello World;NADA!!;NADA!!;
+Jun 06, 18:35;7 TypeScript Patterns You Should Be Using;Morten Barklund;Self-employed;
+Jun 06, 18:55;React Myths And Legends;Nadia Makarevich;Pyn;
