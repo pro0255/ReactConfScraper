@@ -10,6 +10,8 @@ from datetime import datetime
 talk = "talks"
 workshops = "workshops"
 
+SEP = ','
+
 EMPTY = "NADA!!"
 
 
@@ -118,8 +120,8 @@ class Scraper:
     
     
     #Save to directory
-    talks_df.to_csv(os.path.join(path, f"{talk}.csv"), sep=";", index=False)
-    workshops_df.to_csv(os.path.join(path, f"{workshops}.csv"), sep=";", index=False)
+    talks_df.to_csv(os.path.join(path, f"{talk}.csv"), sep=SEP, index=False)
+    workshops_df.to_csv(os.path.join(path, f"{workshops}.csv"), sep=SEP, index=False)
 
 
     

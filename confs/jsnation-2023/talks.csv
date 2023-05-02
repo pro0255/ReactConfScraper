@@ -1,49 +1,49 @@
-Time;Title;Author;Catogery;Tags
-Jun 01, 07:20;APIs are Evolving. Again.;Matteo Collina;Platformatic;architecture
-Jun 01, 08:00;Bun, Deno, Node.js? Recreating a JavaScript Runtime From Scratch;Erick Wendel;Erick Wendel Training - Professional Educator;case study,node.js
-Jun 01, 08:00;SolidJS: Why All the Suspense?;Ryan Carniato;Netlify;frameworks
-Jun 01, 08:30;React + WebGPU + AI – What Could Go Wrong? 😳;Aria Minaei;Theatre.js;frameworks
-Jun 01, 09:30;Modern Web Debugging;Jecelyn Yeen;Google (Chrome DevTools);js tooling,devtools
-Jun 01, 09:30;The Good, The Bad, and The Web Components;Zach Leatherman;Netlify;web components
-Jun 01, 10:00;Apache Kafka Simply Explained With TypeScript Examples;Olena Kutsenko;Aiven;data
-Jun 01, 10:00;The Core of Turbopack Explained (Live Coding);Tobias Koppers;Vercel;
-Jun 01, 10:30;Angular Momentum;Minko Gechev;Google;frameworks,angular
-Jun 01, 10:30;When Optimizations Backfire;Ivan Akulov;Google Developer Expert, PerfPerfPerf;performance
-Jun 01, 12:00;I Would Never Use an ORM;Matteo Collina;Platformatic;js tooling
-Jun 01, 12:00;Building a Web-App: The Easy Path and the Performant Path. Why Are They Not the Same?;Miško Hevery;Builder.io;performance
-Jun 01, 12:30;Rome, a Modern Toolchain!;Emanuele Stoppa;The Astro Technology Company;js tooling
-Jun 01, 12:30;JavaScript Iteration Protocols;Luciano Mammino;fourTheorem;web standards
-Jun 01, 13:00;Dialog Dilemmas and Modal Mischief: A Deep Dive Into Pop-Ups;Hidde de Vries;Web Developer;design systems,accessibility
-Jun 01, 13:00;Bring AI-Based Search to Your Web App;Sebastian Witalec;Weaviate;database,artificial intelligence
-Jun 01, 14:00;Create AR Face Filters With the Chrome Face Detection API;Jorrik Klijnsma;Ordina;browser api
-Jun 01, 14:00;Accessible Component System Through Customization;Maya Shavin;Microsoft;case study,accessibility
-Jun 01, 15:00;AI and Web Development: Hype or Reality;Wes Bos;NADA!!;artificial intelligence
-Jun 05, 14:10;How I Like to Write JavaScript;Caleb Porzio;Creator of AlpineJS & LaravelLivewire;frameworks
-Jun 05, 14:10;DEADScript: The Role Of JavaScript In Web Sustainability;Henri Helvetica;Webpagetest by Catchpoint™;
-Jun 05, 14:30;Three Ways to Automate Your Browser, and Why We Are Adding a Fourth: WebDriver BiDi;Michael Hablich;Google (Chrome team);testing,js tooling,automation,web standards
-Jun 05, 14:30;Comparing JavaScript Frameworks Performance Using Real-World Data;Dan Shappir;NEXT Insurance;performance,frameworks
-Jun 05, 14:50;Progressive Enhancement - What It Is and Isn’t, a Practical Introduction With Svelte;Elliott Johnson;Vercel, SvelteKit Maintainer;architecture
-Jun 05, 14:55;HTTP/3 Performance for JS Developers;Robin Marx;Akamai Technologies;performance
-Jun 05, 15:10;Top Core Web Vitals Recommendations for 2023;Barry Pollard;Google;performance
-Jun 05, 15:15;Building Text Containers in Canvas;Aakansha Doshi;Excalidraw;case study
-Jun 05, 15:35;Mobile Deployments for Web Developers;Cecelia Martinez;NADA!!;architecture,mobile apps
-Jun 05, 15:45;What’s New in Node?;Hemanth HM;PayPal;node.js
-Jun 05, 15:55;Woah! Can TypeScript Do That?;Nikhil Kumaran S;Cloudera;typescript
-Jun 05, 16:10;5 Ways You Could Have Hacked Node.js;Rafael Gonzaga;NearForm;security
-Jun 05, 16:30;ESM Loaders: Enhancing Module Loading in Node.js;Gil Tayar;Microsoft;node.js
-Jun 05, 16:35;Maximum Efficiency: A Primer on Capacitor;Mike Hartington;Ionic;
-Jun 05, 16:50;Web Push Notifications Done Right;Maxim Salnikov;Microsoft;
-Jun 05, 17:00;18n Was the Missing Piece: Let 70%+ of the Users in the World to Access Your Apps;Arisa Fukuzaki;Storyblok;internationalization
-Jun 05, 17:00;i18n Was the Missing Piece: Let 70%+ of the Users in the World to Access Your Apps ;Arisa Fukuzaki;Storyblok;internationalization
-Jun 05, 17:05;Static Analysis in JavaScript: What’s Easy and What’s Hard;Elena Vilchik;Sonar;debug
-Jun 05, 17:10;Anyone Can Be an Open Source Maintainer;Brittany Joiner;PixieBrix;open-source
-Jun 05, 17:20;Responsive Images for Your Website;Sergey Bocharov;Sber;performance,optimization
-Jun 05, 17:25;Start Building Your Own JavaScript Tools;Will Klein;Workday;
-Jun 05, 17:35;Pushing the Limits of Video Encoding in Browsers With WebCodecs;Akash Hamirwasia;Razorpay;webassembly,api
-Jun 05, 17:45;The State of Passwordless Auth on the Web;Phil Nash;Sonar;security
-Jun 05, 17:55;Building an IoT App With InfluxDB, JavaScript, and Plotly.js;Zoe Steinkamp;InfluxData;js tooling,iot
-Jun 05, 18:00;Javascript Source Maps, Can We Do Better?;Kamil Ogórek;Sentry;debug
-Jun 05, 18:05;What We Owe to Each Other;Bryan Hughes;Patreon;open-source,community
-Jun 05, 18:25;Building a Voice-Enabled AI Assistant With Javascript;Tejas Kumar;Xata;artificial intelligence
-Jun 05, 18:35;The Future Stack of Code Review;Gabriel L. Manor;Permit.io;case study,code quality
-Jun 05, 18:45;Scaling Distributed Machine Learning, to the Edge & Back;Jaxon Repp;HarperDB;machine learning,artificial intelligence
+Time,Title,Author,Catogery,Tags
+"Jun 01, 07:20",APIs are Evolving. Again.,Matteo Collina,Platformatic,architecture
+"Jun 01, 08:00",SolidJS: Why All the Suspense?,Ryan Carniato,Netlify,frameworks
+"Jun 01, 08:00","Bun, Deno, Node.js? Recreating a JavaScript Runtime From Scratch",Erick Wendel,Erick Wendel Training - Professional Educator,"case study,node.js"
+"Jun 01, 08:30",React + WebGPU + AI – What Could Go Wrong? 😳,Aria Minaei,Theatre.js,frameworks
+"Jun 01, 09:30",Modern Web Debugging,Jecelyn Yeen,Google (Chrome DevTools),"js tooling,devtools"
+"Jun 01, 09:30","The Good, The Bad, and The Web Components",Zach Leatherman,Netlify,web components
+"Jun 01, 10:00",The Core of Turbopack Explained (Live Coding),Tobias Koppers,Vercel,
+"Jun 01, 10:00",Apache Kafka Simply Explained With TypeScript Examples,Olena Kutsenko,Aiven,data
+"Jun 01, 10:30",When Optimizations Backfire,Ivan Akulov,"Google Developer Expert, PerfPerfPerf",performance
+"Jun 01, 10:30",Angular Momentum,Minko Gechev,Google,"frameworks,angular"
+"Jun 01, 12:00",I Would Never Use an ORM,Matteo Collina,Platformatic,js tooling
+"Jun 01, 12:00",Building a Web-App: The Easy Path and the Performant Path. Why Are They Not the Same?,Miško Hevery,Builder.io,performance
+"Jun 01, 12:30",JavaScript Iteration Protocols,Luciano Mammino,fourTheorem,web standards
+"Jun 01, 12:30","Rome, a Modern Toolchain!",Emanuele Stoppa,The Astro Technology Company,js tooling
+"Jun 01, 13:00",Bring AI-Based Search to Your Web App,Sebastian Witalec,Weaviate,"database,artificial intelligence"
+"Jun 01, 13:00",Dialog Dilemmas and Modal Mischief: A Deep Dive Into Pop-Ups,Hidde de Vries,Web Developer,"design systems,accessibility"
+"Jun 01, 14:00",Create AR Face Filters With the Chrome Face Detection API,Jorrik Klijnsma,Ordina,browser api
+"Jun 01, 14:00",Accessible Component System Through Customization,Maya Shavin,Microsoft,"case study,accessibility"
+"Jun 01, 15:00",AI and Web Development: Hype or Reality,Wes Bos,NADA!!,artificial intelligence
+"Jun 05, 14:10",How I Like to Write JavaScript,Caleb Porzio,Creator of AlpineJS & LaravelLivewire,frameworks
+"Jun 05, 14:10",DEADScript: The Role Of JavaScript In Web Sustainability,Henri Helvetica,Webpagetest by Catchpoint™,
+"Jun 05, 14:30",Comparing JavaScript Frameworks Performance Using Real-World Data,Dan Shappir,NEXT Insurance,"performance,frameworks"
+"Jun 05, 14:30","Three Ways to Automate Your Browser, and Why We Are Adding a Fourth: WebDriver BiDi",Michael Hablich,Google (Chrome team),"testing,js tooling,automation,web standards"
+"Jun 05, 14:50","Progressive Enhancement - What It Is and Isn’t, a Practical Introduction With Svelte",Elliott Johnson,"Vercel, SvelteKit Maintainer",architecture
+"Jun 05, 14:55",HTTP/3 Performance for JS Developers,Robin Marx,Akamai Technologies,performance
+"Jun 05, 15:10",Top Core Web Vitals Recommendations for 2023,Barry Pollard,Google,performance
+"Jun 05, 15:15",Building Text Containers in Canvas,Aakansha Doshi,Excalidraw,case study
+"Jun 05, 15:35",Mobile Deployments for Web Developers,Cecelia Martinez,NADA!!,"architecture,mobile apps"
+"Jun 05, 15:45",What’s New in Node?,Hemanth HM,PayPal,node.js
+"Jun 05, 15:55",Woah! Can TypeScript Do That?,Nikhil Kumaran S,Cloudera,typescript
+"Jun 05, 16:10",5 Ways You Could Have Hacked Node.js,Rafael Gonzaga,NearForm,security
+"Jun 05, 16:30",ESM Loaders: Enhancing Module Loading in Node.js,Gil Tayar,Microsoft,node.js
+"Jun 05, 16:35",Maximum Efficiency: A Primer on Capacitor,Mike Hartington,Ionic,
+"Jun 05, 16:50",Web Push Notifications Done Right,Maxim Salnikov,Microsoft,
+"Jun 05, 17:00",i18n Was the Missing Piece: Let 70%+ of the Users in the World to Access Your Apps ,Arisa Fukuzaki,Storyblok,internationalization
+"Jun 05, 17:00",18n Was the Missing Piece: Let 70%+ of the Users in the World to Access Your Apps,Arisa Fukuzaki,Storyblok,internationalization
+"Jun 05, 17:05",Static Analysis in JavaScript: What’s Easy and What’s Hard,Elena Vilchik,Sonar,debug
+"Jun 05, 17:10",Anyone Can Be an Open Source Maintainer,Brittany Joiner,PixieBrix,open-source
+"Jun 05, 17:20",Responsive Images for Your Website,Sergey Bocharov,Sber,"performance,optimization"
+"Jun 05, 17:25",Start Building Your Own JavaScript Tools,Will Klein,Workday,
+"Jun 05, 17:35",Pushing the Limits of Video Encoding in Browsers With WebCodecs,Akash Hamirwasia,Razorpay,"webassembly,api"
+"Jun 05, 17:45",The State of Passwordless Auth on the Web,Phil Nash,Sonar,security
+"Jun 05, 17:55","Building an IoT App With InfluxDB, JavaScript, and Plotly.js",Zoe Steinkamp,InfluxData,"js tooling,iot"
+"Jun 05, 18:00","JavaScript Source Maps, Can We Do Better?",Kamil Ogórek,Sentry,debug
+"Jun 05, 18:05",What We Owe to Each Other,Bryan Hughes,Patreon,"open-source,community"
+"Jun 05, 18:25",Building a Voice-Enabled AI Assistant With Javascript,Tejas Kumar,Xata,artificial intelligence
+"Jun 05, 18:35",The Future Stack of Code Review,Gabriel L. Manor,Permit.io,"case study,code quality"
+"Jun 05, 18:45","Scaling Distributed Machine Learning, to the Edge & Back",Jaxon Repp,HarperDB,"machine learning,artificial intelligence"
